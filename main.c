@@ -11,7 +11,7 @@
 ** ###################################################################*/
 /*!
 ** @file main.c
-** @version 01.00
+** @version 01.01
 ** @brief
 **         Main module.
 **         This module contains user's application code.
