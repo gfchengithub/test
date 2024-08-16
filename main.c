@@ -50,10 +50,17 @@
 
 
 dev1:
+<<<<<<< HEAD
 1 123x
 2 456x
 3 789x
 4 123x
+
+dev1-1
+1 123dev1-1
+2 456
+3 789
+>>>>>>> dev1-1
 
 void DefaultISR(void)
 {
