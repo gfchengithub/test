@@ -75,6 +75,7 @@ void module_init(sys_run_source_t s_sys_source)
 master
 1 123
 2 456
+3 789
 
 int main(void)
  {
