@@ -50,7 +50,8 @@
 
 
 dev1:
-123
+1 123
+2 456
 
 void DefaultISR(void)
 {
