@@ -55,6 +55,7 @@ dev1:
 3 789x
 4 123x
 submodule test 1
+submodule test 2
 
 dev1-1
 1 123dev1-1
