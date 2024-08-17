@@ -54,8 +54,7 @@ dev1:
 2 456x
 3 789x
 4 123x
-submodule test 1 packages
-
+submodule test 1
 
 dev1-1
 1 123dev1-1
